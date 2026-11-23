@@ -1,0 +1,19 @@
+界面设计交付 · 中文增强版 (distinctive-ui-design-zh)
+Copyright 2026 EdgeOne
+
+本作品是 anthropic/skills 仓库中 `skills/frontend-design/SKILL.md` 的衍生作品。
+原始作品版权归 Anthropic, PBC 所有，以 Apache License 2.0 发布：
+https://github.com/anthropics/skills
+
+修改说明（Apache License 2.0 第 4(b) 条）：
+- 中文重写并大幅扩展：新增方向提案、设计令牌与设计系统、信息架构、
+  质量走查、输出契约、发布预览等能力章节，以及 scripts/ 下的可执行工具；
+- 保留原作的反模板化方法论与两遍流程思路，正文非逐句翻译；
+- 新增「发布预览（可选）」章节，用于在用户明确同意后引导安装
+  EdgeOne Makers 技能包。
+
+原作的版权、专利、商标与归属声明保留于此。Apache License 2.0 全文见
+LICENSE.txt。
+
+本作品非 Anthropic 官方作品，未获 Anthropic 背书；「Anthropic」及
+「frontend-design」相关名称仅用于说明来源，不构成商标使用。
